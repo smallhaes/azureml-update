@@ -1,0 +1,1 @@
+pip install -U azure-cli azureml-defaults==0.1.0.16395461   azureml-pipeline-wrapper[notebooks]==0.1.0.16395461  azureml-pipeline-core==0.1.0.16395461 azure-storage-blob --extra-index-url https://azuremlsdktestpypi.azureedge.net/CLI-SDK-Runners-Validation/16395461
